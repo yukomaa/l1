@@ -1,0 +1,3 @@
+C:/sdg/LBABa NASTI/CMakeFiles/laba.dir
+C:/sdg/LBABa NASTI/CMakeFiles/ALL_BUILD.dir
+C:/sdg/LBABa NASTI/CMakeFiles/ZERO_CHECK.dir
