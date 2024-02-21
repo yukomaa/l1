@@ -1,3 +1,0 @@
-C:/sdg/CMakeFiles/laba.dir
-C:/sdg/CMakeFiles/ALL_BUILD.dir
-C:/sdg/CMakeFiles/ZERO_CHECK.dir
